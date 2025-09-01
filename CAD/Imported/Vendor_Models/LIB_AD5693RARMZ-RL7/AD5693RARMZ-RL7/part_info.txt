@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=AD5693RARMZ-RL7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=10
+Version=1.1
+Released=2022-05-21 10:13:40
+Downloaded=2025-08-30 06:10:19
+3D=Y

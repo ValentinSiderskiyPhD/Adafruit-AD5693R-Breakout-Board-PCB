@@ -32,18 +32,3 @@ Designed by Limor Fried/Ladyada for Adafruit Industries.
 
 Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. 
 See license.txt for additional details.
-
-## 3D Mechanical CAD
-
-Mechanical CAD files for the AD5693R Breakout Board are included in `/CAD/`.
-
-### Contents
-- `Adafruit_AD5693R_Breakout_Assembly.STEP` — Universal STEP file (AP214)  
-- `Assembly/`, `Parts/`, `Imported/`, `Decal/`, `DFX/` — Native SolidWorks and related assets  
-- `Adafruit_AD5693R_Solidworks_Assembly.jpg` — Screenshot of SolidWorks assembly  
-- `Adafruit_AD5693R_STEP_Assembly.jpg` — Screenshot of STEP export  
-
-### Usage
-- Open the STEP file in any CAD software (Fusion, Inventor, FreeCAD, KiCAD MCAD viewer, etc).  
-- For SolidWorks users, open the `.SLDASM` from `/Assembly/` (ensure `Parts/` is in the same path).  
-- Units: **millimeters (mm)**.
